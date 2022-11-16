@@ -3,8 +3,12 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
-    {"id":{"name":"eggmanidle","path":"sprites/eggmanidle/eggmanidle.yy",},"order":1,},
-    {"id":{"name":"eggmanwalk","path":"sprites/eggmanwalk/eggmanwalk.yy",},"order":0,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"splayerjump","path":"sprites/splayerjump/splayerjump.yy",},"order":2,},
+    {"id":{"name":"sinvisiblewall","path":"sprites/sinvisiblewall/sinvisiblewall.yy",},"order":3,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
+    {"id":{"name":"splayeridle","path":"sprites/splayeridle/splayeridle.yy",},"order":1,},
+    {"id":{"name":"splayerwalk","path":"sprites/splayerwalk/splayerwalk.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
