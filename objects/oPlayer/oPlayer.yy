@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oPlayer",
   "spriteId": {
-    "name": "sPlayerwalk",
-    "path": "sprites/sPlayerwalk/sPlayerwalk.yy",
+    "name": "sPlayerR",
+    "path": "sprites/sPlayerR/sPlayerR.yy",
   },
   "solid": false,
   "visible": true,
